@@ -198,3 +198,22 @@ nav ul li a:hover{
 h2{
     color: white;
     text-align: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 220px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+
+  .footer {
+      margin-left: 250px;
+      margin-top: 100px;
+  }
